@@ -6,4 +6,4 @@ I have analyzed 5 hypotheses and presented their conclusions. These hypotheses a
 # Hypothesis 3: Sales are higher during certain months of the year.
 # Hypothesis 4: Orders with same-day shipping have the lowest rate of returned products.
 # Hypothesis 5: The company profits are more on weekdays than on weekends.
-I have explored a bit further and recommended how to advertise in order to potentially boost sales.
+I have explored a bit further and **recommended how to advertise in order to potentially boost sales.**
